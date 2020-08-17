@@ -1,0 +1,4 @@
+{
+    "mongoURI": "Mongo DB Atlas URI", 
+    "jwtSecret": "jwtSecret"
+}
