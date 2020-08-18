@@ -9,7 +9,7 @@ It is a simple web page that adds data to the database, deletes data from the da
 ## User 1
 ![user1](https://user-images.githubusercontent.com/16120472/90395294-ffd6ab00-e09c-11ea-97f9-91ffa95c0323.PNG)
 ## Add Movie
-![add movie](https://user-images.githubusercontent.com/16120472/90395298-ffd6ab00-e09c-11ea-9953-f8fbb068a1a4.PNG)
+![add movie](https://user-images.githubusercontent.com/16120472/90488705-f739af80-e144-11ea-9431-e262d5d65086.PNG)
 ![user1 - 2](https://user-images.githubusercontent.com/16120472/90395300-006f4180-e09d-11ea-9562-1c2548fa5078.PNG)
 ## User 2
 ![user2](https://user-images.githubusercontent.com/16120472/90395299-006f4180-e09d-11ea-8944-09ab9943b882.PNG)
