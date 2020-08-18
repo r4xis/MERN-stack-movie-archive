@@ -131,7 +131,7 @@ class MovieModal extends Component {
                             <Button
                                 color="dark"
                                 style={{ marginBottom: '2rem', marginLeft: '12rem' }}
-                            >Add Item</Button>
+                            >Add Movie</Button>
                         </Form>
                     </ModalBody>
                 </Modal></Fragment>
